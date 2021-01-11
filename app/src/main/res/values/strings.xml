@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">First app</string>
+    <string name="order" translatable="false">Order</string>
+    <string name="quantity" translatable="false">Quantity</string>
+    <string name="increment" translatable="false">+</string>
+    <string name="decrement" translatable="false">-</string>
+    <string name="order_summary" translatable="false">Order Summary</string>
+
+</resources>
